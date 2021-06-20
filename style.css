@@ -1,0 +1,53 @@
+h1{
+    text-align: center;
+    font-family: Open Sans;
+}
+body{
+    
+}
+th{
+    text-align: center;
+    font-size: 30px;
+    font-family: Open Sans;
+}
+td{
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 24px;
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+.centerimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 100%;
+}
+.special{
+    text-align: center;
+    font-size: 20px;
+    font-family: Open Sans;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+.jeffkaplan{
+    width: 500px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p{
+    font-size: 30px;
+    text-align: center;
+    font-family: Open Sans;
+}
+h2{
+    text-align: center;
+    font-family: Open Sans;
+}
